@@ -15,7 +15,7 @@ class BrowserManager {
     const height = 700;
     const windowSize = { width, height };
 
-    for (const account of accounts) {
+    for (const [index, account] of accounts.entries())  {
       // const browserArgs = [
       //   `--window-size=${width},${height}`,
       //   `--window-position=${x},${y}`,
