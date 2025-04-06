@@ -1,0 +1,1318 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "url": "https://www.whitepages.com/name/Lita/FL",
+    "numberOfItems": 25,
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Person",
+                "name": "Ryan S Lita",
+                "givenName": "Ryan",
+                "familyName": "Lita",
+                "additionalName": "S",
+                "description": "Ryan S Lita in their 30s, currently living in Jacksonville, FL",
+                "url": "/name/Ryan-S-Lita/Jacksonville-FL/PbywbPv7WZ9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "3050 Tamaya Blvd Apt 920",
+                        "addressLocality": "Jacksonville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Golden Glades-the Woods",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(904) 221-7233",
+                "relatedTo": []
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Person",
+                "name": "Ron Bryan Lita",
+                "givenName": "Ron",
+                "familyName": "Lita",
+                "additionalName": "Bryan",
+                "description": "Ron Bryan Lita in their 30s, currently living in Jacksonville, FL",
+                "url": "/name/Ron-Bryan-Lita/Jacksonville-FL/PA8mPrjGWO3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "3050 Tamaya Blvd Apt 920",
+                        "addressLocality": "Jacksonville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Golden Glades-the Woods",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Ron Bryan L Lita",
+                    "Ronbryan L Lita"
+                ],
+                "telephone": "(904) 221-7233",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Elizabeth L Lita",
+                        "givenName": "Elizabeth",
+                        "familyName": "Lita",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Josephine L Lita",
+                        "givenName": "Josephine",
+                        "familyName": "Lita",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Hazel B Lita",
+                        "givenName": "Hazel",
+                        "familyName": "Lita",
+                        "additionalName": "B"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "Person",
+                "name": "Faton Lita",
+                "givenName": "Faton",
+                "familyName": "Lita",
+                "description": "Faton Lita in their 30s, currently living in Secaucus, NJ",
+                "url": "/name/Faton-Lita/Secaucus-NJ/Po8M7pklMyW",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "950 Schopmann Dr",
+                        "addressLocality": "Secaucus",
+                        "addressRegion": "NJ",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "North End",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "NJ",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(201) 865-7119",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Suela Lita",
+                        "givenName": "Suela",
+                        "familyName": "Lita"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Fatbardha F Mamudi",
+                        "givenName": "Fatbardha",
+                        "familyName": "Mamudi",
+                        "additionalName": "F"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Krenar Lita",
+                        "givenName": "Krenar",
+                        "familyName": "Lita"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "Person",
+                "name": "Lita Anna Federico",
+                "givenName": "Lita",
+                "familyName": "Federico",
+                "additionalName": "Anna",
+                "description": "Lita Anna Federico in their 30s, currently living in Middleburg, FL",
+                "url": "/name/Lita-Anna-Federico/Middleburg-FL/Po3j2oeEw37",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2907 Biloxi Trl",
+                        "addressLocality": "Middleburg",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Federico Lita",
+                    "Lita A Vasquez"
+                ],
+                "telephone": "(262) 657-7507",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Julio Cesar Federico",
+                        "givenName": "Julio",
+                        "familyName": "Federico",
+                        "additionalName": "Cesar"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Carlos R Vasquez",
+                        "givenName": "Carlos",
+                        "familyName": "Vasquez",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jessica J Vasquez",
+                        "givenName": "Jessica",
+                        "familyName": "Vasquez",
+                        "additionalName": "J"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Bartender"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Delaware North"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@type": "Person",
+                "name": "Lita R Davidson",
+                "givenName": "Lita",
+                "familyName": "Davidson",
+                "additionalName": "R",
+                "description": "Lita R Davidson in their 30s, currently living in Valdosta, GA",
+                "url": "/name/Lita-R-Davidson/Valdosta-GA/Pl8aJKKGo9b",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "4206 Pemberly Dr",
+                        "addressLocality": "Valdosta",
+                        "addressRegion": "GA",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Davidson Lita"
+                ],
+                "telephone": "(631) 888-0749",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Barbra J Davidson",
+                        "givenName": "Barbra",
+                        "familyName": "Davidson",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Mary P Davidson",
+                        "givenName": "Mary",
+                        "familyName": "Davidson",
+                        "additionalName": "P"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Melody A Davidson",
+                        "givenName": "Melody",
+                        "familyName": "Davidson",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Christine A Sass",
+                        "givenName": "Christine",
+                        "familyName": "Sass",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nicole Gene Davidson",
+                        "givenName": "Nicole",
+                        "familyName": "Davidson",
+                        "additionalName": "Gene"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@type": "Person",
+                "name": "Nicole Georgeta Bedynek",
+                "givenName": "Nicole",
+                "familyName": "Bedynek",
+                "additionalName": "Georgeta",
+                "description": "Nicole Georgeta Bedynek in their 30s, currently living in Leander, TX",
+                "url": "/name/Nicole-Georgeta-Bedynek/Leander-TX/Pl8ajKJ7X29",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "802 Meadow View Dr",
+                        "addressLocality": "Leander",
+                        "addressRegion": "TX",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Nicole Bednyek",
+                    "Nicole Georgeta Lita"
+                ],
+                "telephone": "(512) 904-0380",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Dylan James Bedynek",
+                        "givenName": "Dylan",
+                        "familyName": "Bedynek",
+                        "additionalName": "James"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Donna Blodgett Lita",
+                        "givenName": "Donna",
+                        "familyName": "Lita",
+                        "additionalName": "Blodgett"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Christian C Lita",
+                        "givenName": "Christian",
+                        "familyName": "Lita",
+                        "additionalName": "C"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Patrick S Bedynek",
+                        "givenName": "Patrick",
+                        "familyName": "Bedynek",
+                        "additionalName": "S"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Joni Denise Bedynek",
+                        "givenName": "Joni",
+                        "familyName": "Bedynek",
+                        "additionalName": "Denise"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@type": "Person",
+                "name": "Vytautas Baronas Leita",
+                "givenName": "Vytautas",
+                "familyName": "Leita",
+                "additionalName": "Baronas",
+                "description": "Vytautas Baronas Leita in their 30s, currently living in Clearwater, FL",
+                "url": "/name/Vytautas-Baronas-Leita/Clearwater-FL/P53W5PmXW9G",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "3816 107th Ave N",
+                        "addressLocality": "Clearwater",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(727) 572-5209",
+                "relatedTo": []
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@type": "Person",
+                "name": "Mary Loy Leta",
+                "givenName": "Mary",
+                "familyName": "Leta",
+                "additionalName": "Loy",
+                "description": "Mary Loy Leta in their 30s, currently living in Tampa, FL",
+                "url": "/name/Mary-Loy-Leta/Tampa-FL/PbywDp5gXm3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "10802 N Jacelyn St",
+                        "addressLocality": "Tampa",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "University Square",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Ramon M Martinez",
+                        "givenName": "Ramon",
+                        "familyName": "Martinez",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Brady Mejia",
+                        "givenName": "Brady",
+                        "familyName": "Mejia"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@type": "Person",
+                "name": "Michael D Lista",
+                "givenName": "Michael",
+                "familyName": "Lista",
+                "additionalName": "D",
+                "description": "Michael D Lista in their 20s, currently living in West Palm Beach, FL",
+                "url": "/name/Michael-D-Lista/West-Palm-Beach-FL/PR35wvrx5P9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1754 Palisades Dr",
+                        "addressLocality": "West Palm Beach",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Baywinds",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(561) 333-0202",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Angelo J Lista",
+                        "givenName": "Angelo",
+                        "familyName": "Lista",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Angelo Lista",
+                        "givenName": "Angelo",
+                        "familyName": "Lista"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Christina F Lista",
+                        "givenName": "Christina",
+                        "familyName": "Lista",
+                        "additionalName": "F"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Carol A Lista",
+                        "givenName": "Carol",
+                        "familyName": "Lista",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Angelo Xx Lista",
+                        "givenName": "Angelo",
+                        "familyName": "Lista",
+                        "additionalName": "Xx"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@type": "Person",
+                "name": "Nina T Liotta",
+                "givenName": "Nina",
+                "familyName": "Liotta",
+                "additionalName": "T",
+                "description": "Nina T Liotta in their 30s, currently living in Palm Harbor, FL",
+                "url": "/name/Nina-T-Liotta/Palm-Harbor-FL/PwyDOQEwKk9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "3319 Parkway Pl",
+                        "addressLocality": "Palm Harbor",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Nina Theresa Liotta"
+                ],
+                "telephone": "(516) 408-7300",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Benjamin Vincent Liotta",
+                        "givenName": "Benjamin",
+                        "familyName": "Liotta",
+                        "additionalName": "Vincent"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Elisa Kim Liotta",
+                        "givenName": "Elisa",
+                        "familyName": "Liotta",
+                        "additionalName": "Kim"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Vincent C Liotta",
+                        "givenName": "Vincent",
+                        "familyName": "Liotta",
+                        "additionalName": "C"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Laura R Liotta",
+                        "givenName": "Laura",
+                        "familyName": "Liotta",
+                        "additionalName": "R"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Account Manager"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Cliffco Mortgage Bankers"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@type": "Person",
+                "name": "Alyssa Joy Luhta",
+                "givenName": "Alyssa",
+                "familyName": "Luhta",
+                "additionalName": "Joy",
+                "description": "Alyssa Joy Luhta in their 20s, currently living in Orlando, FL",
+                "url": "/name/Alyssa-Joy-Luhta/Orlando-FL/PJyqEmn5MyQ",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "14150 Louisville Ct",
+                        "addressLocality": "Orlando",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "University Of Central Florida",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(818) 553-5000",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Lars D Luhta",
+                        "givenName": "Lars",
+                        "familyName": "Luhta",
+                        "additionalName": "D"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Leah K Luhta",
+                        "givenName": "Leah",
+                        "familyName": "Luhta",
+                        "additionalName": "K"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Adrienne Elizabeth Eckels",
+                        "givenName": "Adrienne",
+                        "familyName": "Eckels",
+                        "additionalName": "Elizabeth"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Susanna E Luhta",
+                        "givenName": "Susanna",
+                        "familyName": "Luhta",
+                        "additionalName": "E"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Klaus D Luhta",
+                        "givenName": "Klaus",
+                        "familyName": "Luhta",
+                        "additionalName": "D"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Merchandise Coordinator"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Disney Interactive"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@type": "Person",
+                "name": "Keith Anthony Liotta",
+                "givenName": "Keith",
+                "familyName": "Liotta",
+                "additionalName": "Anthony",
+                "description": "Keith Anthony Liotta in their 20s, currently living in Vero Beach, FL",
+                "url": "/name/Keith-Anthony-Liotta/Vero-Beach-FL/P53kYX4jxb9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "485 11th Ave",
+                        "addressLocality": "Vero Beach",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(772) 770-0036",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Angela Lynn Liotta",
+                        "givenName": "Angela",
+                        "familyName": "Liotta",
+                        "additionalName": "Lynn"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@type": "Person",
+                "name": "Jason D Listhaus",
+                "givenName": "Jason",
+                "familyName": "Listhaus",
+                "additionalName": "D",
+                "description": "Jason D Listhaus in their 30s, currently living in Boca Raton, FL",
+                "url": "/name/Jason-D-Listhaus/Boca-Raton-FL/PL3NljZmj91",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7667 Estrella Cir",
+                        "addressLocality": "Boca Raton",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(646) 490-6710",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Barbara L Listhaus",
+                        "givenName": "Barbara",
+                        "familyName": "Listhaus",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Alan D Listhaus",
+                        "givenName": "Alan",
+                        "familyName": "Listhaus",
+                        "additionalName": "D"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Joseph M Listhaus",
+                        "givenName": "Joseph",
+                        "familyName": "Listhaus",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Maggie M Listhaus",
+                        "givenName": "Maggie",
+                        "familyName": "Listhaus",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jessica K Listhaus",
+                        "givenName": "Jessica",
+                        "familyName": "Listhaus",
+                        "additionalName": "K"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@type": "Person",
+                "name": "Ashley Liotta",
+                "givenName": "Ashley",
+                "familyName": "Liotta",
+                "description": "Ashley Liotta in their 30s, currently living in North Lauderdale, FL",
+                "url": "/name/Ashley-Liotta/North-Lauderdale-FL/Pk3n6XQ6M53",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1930 N Lauderdale Ave Apt 105",
+                        "addressLocality": "North Lauderdale",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(954) 688-6520",
+                "relatedTo": []
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@type": "Person",
+                "name": "Traci Margaret Liotta",
+                "givenName": "Traci",
+                "familyName": "Liotta",
+                "additionalName": "Margaret",
+                "description": "Traci Margaret Liotta in their 30s, currently living in Saint Augustine, FL",
+                "url": "/name/Traci-Margaret-Liotta/Saint-Augustine-FL/Pj9Qrd0OpyV",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "663 Porta Rosa Cir",
+                        "addressLocality": "Saint Augustine",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(203) 723-5564",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Robert I Liotta",
+                        "givenName": "Robert",
+                        "familyName": "Liotta",
+                        "additionalName": "I"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Mary E McBride",
+                        "givenName": "Mary",
+                        "familyName": "McBride",
+                        "additionalName": "E"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Robert S Liotta",
+                        "givenName": "Robert",
+                        "familyName": "Liotta",
+                        "additionalName": "S"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@type": "Person",
+                "name": "Ann Lista",
+                "givenName": "Ann",
+                "familyName": "Lista",
+                "description": "Ann Lista in their 20s, currently living in Naples, FL",
+                "url": "/name/Ann-Lista/Naples-FL/PX3v6VkpDz3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1147 Hilltop Dr",
+                        "addressLocality": "Naples",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Richi Lista",
+                        "givenName": "Richi",
+                        "familyName": "Lista"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Helen J Lista",
+                        "givenName": "Helen",
+                        "familyName": "Lista",
+                        "additionalName": "J"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@type": "Person",
+                "name": "Maggie M Listhaus",
+                "givenName": "Maggie",
+                "familyName": "Listhaus",
+                "additionalName": "M",
+                "description": "Maggie M Listhaus in their 30s, currently living in Boca Raton, FL",
+                "url": "/name/Maggie-M-Listhaus/Boca-Raton-FL/Pr84VVY0ayj",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7667 Estrella Cir",
+                        "addressLocality": "Boca Raton",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Maggie S Dweck"
+                ],
+                "telephone": "(718) 327-8190",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Jason D Listhaus",
+                        "givenName": "Jason",
+                        "familyName": "Listhaus",
+                        "additionalName": "D"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Alan D Listhaus",
+                        "givenName": "Alan",
+                        "familyName": "Listhaus",
+                        "additionalName": "D"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Joseph M Listhaus",
+                        "givenName": "Joseph",
+                        "familyName": "Listhaus",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jessica K Listhaus",
+                        "givenName": "Jessica",
+                        "familyName": "Listhaus",
+                        "additionalName": "K"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Benjamin J Dweck",
+                        "givenName": "Benjamin",
+                        "familyName": "Dweck",
+                        "additionalName": "J"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@type": "Person",
+                "name": "Joann R Leetad",
+                "givenName": "Joann",
+                "familyName": "Leetad",
+                "additionalName": "R",
+                "description": "Joann R Leetad in their 30s, currently living in Doral, FL",
+                "url": "/name/Joann-R-Leetad/Doral-FL/Pk3n6gkrEa3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "11528 NW 43rd Ter",
+                        "addressLocality": "Doral",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Doral",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Joann R Lee-Tad"
+                ],
+                "telephone": "(786) 275-4041",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Debra Lee Chung",
+                        "givenName": "Debra",
+                        "familyName": "Chung",
+                        "additionalName": "Lee"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@type": "Person",
+                "name": "Helen J Lista",
+                "givenName": "Helen",
+                "familyName": "Lista",
+                "additionalName": "J",
+                "description": "Helen J Lista in their 20s, currently living in Naples, FL",
+                "url": "/name/Helen-J-Lista/Naples-FL/PbywwXKPMoy",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1147 Hilltop Dr",
+                        "addressLocality": "Naples",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Richi Lista",
+                        "givenName": "Richi",
+                        "familyName": "Lista"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Ann Lista",
+                        "givenName": "Ann",
+                        "familyName": "Lista"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@type": "Person",
+                "name": "Patricia N Liotta",
+                "givenName": "Patricia",
+                "familyName": "Liotta",
+                "additionalName": "N",
+                "description": "Patricia N Liotta in their 20s, currently living in Davenport, FL",
+                "url": "/name/Patricia-N-Liotta/Davenport-FL/P63GabjARY9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "204 Tivoli Cir",
+                        "addressLocality": "Davenport",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(631) 728-7278",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Michael James Liotta",
+                        "givenName": "Michael",
+                        "familyName": "Liotta",
+                        "additionalName": "James"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Brian E Liotta",
+                        "givenName": "Brian",
+                        "familyName": "Liotta",
+                        "additionalName": "E"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Eugene Anthony Liotta",
+                        "givenName": "Eugene",
+                        "familyName": "Liotta",
+                        "additionalName": "Anthony"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Linda H Liotta",
+                        "givenName": "Linda",
+                        "familyName": "Liotta",
+                        "additionalName": "H"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Robert Eugene Liotta",
+                        "givenName": "Robert",
+                        "familyName": "Liotta",
+                        "additionalName": "Eugene"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@type": "Person",
+                "name": "Felicia L Lieto",
+                "givenName": "Felicia",
+                "familyName": "Lieto",
+                "additionalName": "L",
+                "description": "Felicia L Lieto in their 30s, currently living in Ocala, FL",
+                "url": "/name/Felicia-L-Lieto/Ocala-FL/PL3NBjwq531",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2786 SW 167th Ln",
+                        "addressLocality": "Ocala",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Lieto Felicia"
+                ],
+                "telephone": "(646) 843-9662",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Aeriel Nicole Lieto",
+                        "givenName": "Aeriel",
+                        "familyName": "Lieto",
+                        "additionalName": "Nicole"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Christin C Lieto",
+                        "givenName": "Christin",
+                        "familyName": "Lieto",
+                        "additionalName": "C"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Lacey A Lieto",
+                        "givenName": "Lacey",
+                        "familyName": "Lieto",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Debra Ann Funk",
+                        "givenName": "Debra",
+                        "familyName": "Funk",
+                        "additionalName": "Ann"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Store Manager"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Haute Hippie"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@type": "Person",
+                "name": "William R Leister",
+                "givenName": "William",
+                "familyName": "Leister",
+                "additionalName": "R",
+                "description": "William R Leister in their 30s, currently living in Navarre, FL",
+                "url": "/name/William-R-Leister/Navarre-FL/P53k4lA0Jl8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2176 Stratos Ct",
+                        "addressLocality": "Navarre",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Billy Leister"
+                ],
+                "telephone": "(610) 292-0893",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Barry P Leister",
+                        "givenName": "Barry",
+                        "familyName": "Leister",
+                        "additionalName": "P"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Lauren Ashley Green",
+                        "givenName": "Lauren",
+                        "familyName": "Green",
+                        "additionalName": "Ashley"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Stephanie Marie Case",
+                        "givenName": "Stephanie",
+                        "familyName": "Case",
+                        "additionalName": "Marie"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Taylor Marie Leister",
+                        "givenName": "Taylor",
+                        "familyName": "Leister",
+                        "additionalName": "Marie"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Operational Test Program Manager, Intelligence, Surveillance & Reconnaissance (Isr)"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "605th Test And Evaluation Squadron (Tes)"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@type": "Person",
+                "name": "Marcus V Leite",
+                "givenName": "Marcus",
+                "familyName": "Leite",
+                "additionalName": "V",
+                "description": "Marcus V Leite in their 30s, currently living in Saint Augustine, FL",
+                "url": "/name/Marcus-V-Leite/Saint-Augustine-FL/PoyKqYO1XP8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "75 Dade Ct",
+                        "addressLocality": "Saint Augustine",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Andreia R Ferraz",
+                        "givenName": "Andreia",
+                        "familyName": "Ferraz",
+                        "additionalName": "R"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@type": "Person",
+                "name": "Samuel B Leite",
+                "givenName": "Samuel",
+                "familyName": "Leite",
+                "additionalName": "B",
+                "description": "Samuel B Leite in their 30s, currently living in Tampa, FL",
+                "url": "/name/Samuel-B-Leite/Tampa-FL/PJ9eGVqzr3w",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "4850 Heron Pointe Dr Apt 405",
+                        "addressLocality": "Tampa",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Gandy - Sun Bay South",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Samuel Lette",
+                    "Sam B Leite"
+                ],
+                "telephone": "(502) 452-4031",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Rebecca M Leite",
+                        "givenName": "Rebecca",
+                        "familyName": "Leite",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Bryan C Leite",
+                        "givenName": "Bryan",
+                        "familyName": "Leite",
+                        "additionalName": "C"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thomas Leite",
+                        "givenName": "Thomas",
+                        "familyName": "Leite"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Stephanie Leite Hampton",
+                        "givenName": "Stephanie",
+                        "familyName": "Hampton",
+                        "additionalName": "Leite"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Principal Area Sales Manager - Retail"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Ge Appliances, A Haier Company"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@type": "Person",
+                "name": "Kristen Renee Lester",
+                "givenName": "Kristen",
+                "familyName": "Lester",
+                "additionalName": "Renee",
+                "description": "Kristen Renee Lester in their 30s, currently living in Cape Coral, FL",
+                "url": "/name/Kristen-Renee-Lester/Cape-Coral-FL/P59O7XWpdP9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1535 SE 42nd Ter",
+                        "addressLocality": "Cape Coral",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(440) 426-0019",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Kristen R Lester",
+                        "givenName": "Kristen",
+                        "familyName": "Lester",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Kaitlin E Lester",
+                        "givenName": "Kaitlin",
+                        "familyName": "Lester",
+                        "additionalName": "E"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Deborah M Lester",
+                        "givenName": "Deborah",
+                        "familyName": "Lester",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Deshel Dawne Lester",
+                        "givenName": "Deshel",
+                        "familyName": "Lester",
+                        "additionalName": "Dawne"
+                    }
+                ]
+            }
+        }
+    ],
+    "description": "View Lita results in Florida including current home address, phone number, relatives & property records with Whitepages. We found 1318 people named Lita in Florida."
+}

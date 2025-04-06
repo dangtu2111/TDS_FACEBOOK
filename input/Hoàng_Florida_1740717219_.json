@@ -1,0 +1,1446 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "url": "https://www.whitepages.com/name/Hoang/FL",
+    "numberOfItems": 25,
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Person",
+                "name": "Thy Thanh Hoang",
+                "givenName": "Thy",
+                "familyName": "Hoang",
+                "additionalName": "Thanh",
+                "description": "Thy Thanh Hoang in their 30s, currently living in Saint Johns, FL",
+                "url": "/name/Thy-Thanh-Hoang/Saint-Johns-FL/Pg8gZm0gm3Y",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1633 Summerdown Way",
+                        "addressLocality": "Saint Johns",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Fruit Cove",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(904) 790-4700",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Dieu L Hoang",
+                        "givenName": "Dieu",
+                        "familyName": "Hoang",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nhu Thuy Hoang",
+                        "givenName": "Nhu",
+                        "familyName": "Hoang",
+                        "additionalName": "Thuy"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tanya N Hoang",
+                        "givenName": "Tanya",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Trong Vinh Hoang",
+                        "givenName": "Trong",
+                        "familyName": "Hoang",
+                        "additionalName": "Vinh"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Kevin Thanh Hoang",
+                        "givenName": "Kevin",
+                        "familyName": "Hoang",
+                        "additionalName": "Thanh"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Occupational Health and Safety Specialist"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Fleet Readiness Center Southeast"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Person",
+                "name": "Lee Hoang",
+                "givenName": "Lee",
+                "familyName": "Hoang",
+                "description": "Lee Hoang in their 20s, currently living in Chuluota, FL",
+                "url": "/name/Lee-Hoang/Chuluota-FL/PbywbAp0Xl9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "125 E 8th St",
+                        "addressLocality": "Chuluota",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Chuluota",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(407) 293-0466",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "John Hoang",
+                        "givenName": "John",
+                        "familyName": "Hoang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Dung A Hoang",
+                        "givenName": "Dung",
+                        "familyName": "Hoang",
+                        "additionalName": "A"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "Person",
+                "name": "Phu D Hoang",
+                "givenName": "Phu",
+                "familyName": "Hoang",
+                "additionalName": "D",
+                "description": "Phu D Hoang in their 20s, currently living in Sarasota, FL",
+                "url": "/name/Phu-D-Hoang/Sarasota-FL/P19XVrGlAz3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "323 Bailey Rd",
+                        "addressLocality": "Sarasota",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(941) 346-6415",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Tuan Hoang",
+                        "givenName": "Tuan",
+                        "familyName": "Hoang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Maria Phuong Hoang",
+                        "givenName": "Maria",
+                        "familyName": "Hoang",
+                        "additionalName": "Phuong"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Dat T Hoang",
+                        "givenName": "Dat",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Huy Thanh Hoang",
+                        "givenName": "Huy",
+                        "familyName": "Hoang",
+                        "additionalName": "Thanh"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thanh D Hoang",
+                        "givenName": "Thanh",
+                        "familyName": "Hoang",
+                        "additionalName": "D"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "Person",
+                "name": "Ha Kim Hoang",
+                "givenName": "Ha",
+                "familyName": "Hoang",
+                "additionalName": "Kim",
+                "description": "Ha Kim Hoang in their 30s, currently living in Clermont, FL",
+                "url": "/name/Ha-Kim-Hoang/Clermont-FL/PJ9eDe5608w",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1645 Sunset Village Blvd",
+                        "addressLocality": "Clermont",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Peter Minhphat Hoang",
+                        "givenName": "Peter",
+                        "familyName": "Hoang",
+                        "additionalName": "Minhphat"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thoat D Hoang",
+                        "givenName": "Thoat",
+                        "familyName": "Hoang",
+                        "additionalName": "D"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Kim Do",
+                        "givenName": "Kim",
+                        "familyName": "Do"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@type": "Person",
+                "name": "Peter Tu Hoang",
+                "givenName": "Peter",
+                "familyName": "Hoang",
+                "additionalName": "Tu",
+                "description": "Peter Tu Hoang in their 20s, currently living in Jacksonville, FL",
+                "url": "/name/Peter-Tu-Hoang/Jacksonville-FL/Pg8gv4om2X3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "12083 Foal Ln",
+                        "addressLocality": "Jacksonville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Sandalwood",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(904) 398-3276",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Bien Xuan Hoang",
+                        "givenName": "Bien",
+                        "familyName": "Hoang",
+                        "additionalName": "Xuan"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nghia Chinh Hoang",
+                        "givenName": "Nghia",
+                        "familyName": "Hoang",
+                        "additionalName": "Chinh"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tuan A Hoang",
+                        "givenName": "Tuan",
+                        "familyName": "Hoang",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thi Ngoc Pham",
+                        "givenName": "Thi",
+                        "familyName": "Pham",
+                        "additionalName": "Ngoc"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thi Nom Pham",
+                        "givenName": "Thi",
+                        "familyName": "Pham",
+                        "additionalName": "Nom"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@type": "Person",
+                "name": "Catherine H Hoang",
+                "givenName": "Catherine",
+                "familyName": "Hoang",
+                "additionalName": "H",
+                "description": "Catherine H Hoang in their 30s, currently living in Coral Gables, FL",
+                "url": "/name/Catherine-H-Hoang/Coral-Gables-FL/P19XP2GnW94",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "528 Savona Ave",
+                        "addressLocality": "Coral Gables",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Riviera",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Hoang Catherine"
+                ],
+                "telephone": "(703) 327-1041",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Michael M Hoang",
+                        "givenName": "Michael",
+                        "familyName": "Hoang",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Minh Duy Hoang",
+                        "givenName": "Minh",
+                        "familyName": "Hoang",
+                        "additionalName": "Duy"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Joseph N Hoang",
+                        "givenName": "Joseph",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Mary T Hoang",
+                        "givenName": "Mary",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nancy N Hoang",
+                        "givenName": "Nancy",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Senior Manager"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Deloitte"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@type": "Person",
+                "name": "Thuy Tien Hoang",
+                "givenName": "Thuy",
+                "familyName": "Hoang",
+                "additionalName": "Tien",
+                "description": "Thuy Tien Hoang in their 30s, currently living in Orlando, FL",
+                "url": "/name/Thuy-Tien-Hoang/Orlando-FL/PJ9ePqE2Px8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "8544 White Rose Dr",
+                        "addressLocality": "Orlando",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Thuy Thi Hoang",
+                    "Tien C Hoang",
+                    "Tien Thuy Hoang"
+                ],
+                "telephone": "(408) 360-9772",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Trang Thanh Hoang",
+                        "givenName": "Trang",
+                        "familyName": "Hoang",
+                        "additionalName": "Thanh"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tan T Hoang",
+                        "givenName": "Tan",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thuy Hoang",
+                        "givenName": "Thuy",
+                        "familyName": "Hoang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Ty Van Hoang",
+                        "givenName": "Ty",
+                        "familyName": "Hoang",
+                        "additionalName": "Van"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tu Quoc Hoang",
+                        "givenName": "Tu",
+                        "familyName": "Hoang",
+                        "additionalName": "Quoc"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@type": "Person",
+                "name": "Shirley W Hoang",
+                "givenName": "Shirley",
+                "familyName": "Hoang",
+                "additionalName": "W",
+                "description": "Shirley W Hoang in their 20s, currently living in Orlando, FL",
+                "url": "/name/Shirley-W-Hoang/Orlando-FL/Pk9AMzJwm9A",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2948 Moorcroft Ct",
+                        "addressLocality": "Orlando",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(407) 673-6599",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Quan Phu Hoang",
+                        "givenName": "Quan",
+                        "familyName": "Hoang",
+                        "additionalName": "Phu"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Quan Hung Hoang",
+                        "givenName": "Quan",
+                        "familyName": "Hoang",
+                        "additionalName": "Hung"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jayson Hung Hoang",
+                        "givenName": "Jayson",
+                        "familyName": "Hoang",
+                        "additionalName": "Hung"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Phu T Hoang",
+                        "givenName": "Phu",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Quan H Hoang",
+                        "givenName": "Quan",
+                        "familyName": "Hoang",
+                        "additionalName": "H"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@type": "Person",
+                "name": "Diane Vi Hoang",
+                "givenName": "Diane",
+                "familyName": "Hoang",
+                "additionalName": "Vi",
+                "description": "Diane Vi Hoang in their 30s, currently living in Davie, FL",
+                "url": "/name/Diane-Vi-Hoang/Davie-FL/PvyBN111zPy",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "3061 Palm Trace Landings Dr Apt 1512",
+                        "addressLocality": "Davie",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(408) 374-8499",
+                "relatedTo": []
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@type": "Person",
+                "name": "Xuyen Long Hoang",
+                "givenName": "Xuyen",
+                "familyName": "Hoang",
+                "additionalName": "Long",
+                "description": "Xuyen Long Hoang in their 30s, currently living in Cape Coral, FL",
+                "url": "/name/Xuyen-Long-Hoang/Cape-Coral-FL/Pd96XzAE63e",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "927 SE 32nd Ter",
+                        "addressLocality": "Cape Coral",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(888) 237-8289",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Phuong Lang Nguyen",
+                        "givenName": "Phuong",
+                        "familyName": "Nguyen",
+                        "additionalName": "Lang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tuan Cao Hoang",
+                        "givenName": "Tuan",
+                        "familyName": "Hoang",
+                        "additionalName": "Cao"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Hailong J Hoang",
+                        "givenName": "Hailong",
+                        "familyName": "Hoang",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Khai Q Hoang",
+                        "givenName": "Khai",
+                        "familyName": "Hoang",
+                        "additionalName": "Q"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Long H Hoang",
+                        "givenName": "Long",
+                        "familyName": "Hoang",
+                        "additionalName": "H"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Information Technology Administrator"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Dr.T Spinal Care"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@type": "Person",
+                "name": "Minh Hang Hoang",
+                "givenName": "Minh",
+                "familyName": "Hoang",
+                "additionalName": "Hang",
+                "description": "Minh Hang Hoang in their 30s, currently living in Clearwater, FL",
+                "url": "/name/Minh-Hang-Hoang/Clearwater-FL/Pg8gba4rW3Y",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1867 S Betty Ln",
+                        "addressLocality": "Clearwater",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Minh-Hang T Hoang",
+                    "Hoang Minh Hang",
+                    "Minh Hang Thi Hoang",
+                    "Minhhang Hoang"
+                ],
+                "telephone": "(412) 431-1964",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Pauline A Hoang",
+                        "givenName": "Pauline",
+                        "familyName": "Hoang",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nhu Hoang",
+                        "givenName": "Nhu",
+                        "familyName": "Hoang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Huong N Hoang",
+                        "givenName": "Huong",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thai Linh Hoang",
+                        "givenName": "Thai",
+                        "familyName": "Hoang",
+                        "additionalName": "Linh"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@type": "Person",
+                "name": "Hao Hoang",
+                "givenName": "Hao",
+                "familyName": "Hoang",
+                "description": "Hao Hoang in their 20s, currently living in Winter Haven, FL",
+                "url": "/name/Hao-Hoang/Winter-Haven-FL/PbyPnBGx0P8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "219 Lake Thomas Dr",
+                        "addressLocality": "Winter Haven",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Jan Phyl Village",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "relatedTo": []
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@type": "Person",
+                "name": "Lenh N Hoang",
+                "givenName": "Lenh",
+                "familyName": "Hoang",
+                "additionalName": "N",
+                "description": "Lenh N Hoang in their 20s, currently living in Orlando, FL",
+                "url": "/name/Lenh-N-Hoang/Orlando-FL/PoyK5PPGQe8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "4202 Chateau Rd",
+                        "addressLocality": "Orlando",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(407) 523-7437",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Manh V Hoang",
+                        "givenName": "Manh",
+                        "familyName": "Hoang",
+                        "additionalName": "V"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tri Hoang",
+                        "givenName": "Tri",
+                        "familyName": "Hoang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thi Lanh Hoang",
+                        "givenName": "Thi",
+                        "familyName": "Hoang",
+                        "additionalName": "Lanh"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Van Thang Hoang",
+                        "givenName": "Van",
+                        "familyName": "Hoang",
+                        "additionalName": "Thang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Minh Van Hoang",
+                        "givenName": "Minh",
+                        "familyName": "Hoang",
+                        "additionalName": "Van"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@type": "Person",
+                "name": "Lam Minh Hoang",
+                "givenName": "Lam",
+                "familyName": "Hoang",
+                "additionalName": "Minh",
+                "description": "Lam Minh Hoang in their 20s, currently living in Tampa, FL",
+                "url": "/name/Lam-Minh-Hoang/Tampa-FL/Pm87BV01lY3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "4323 S Thatcher Ave",
+                        "addressLocality": "Tampa",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Fairoaks - Manhattan Manor",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Bao Hoang",
+                        "givenName": "Bao",
+                        "familyName": "Hoang"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@type": "Person",
+                "name": "Tina T Hoang",
+                "givenName": "Tina",
+                "familyName": "Hoang",
+                "additionalName": "T",
+                "description": "Tina T Hoang in their 30s, currently living in Lutz, FL",
+                "url": "/name/Tina-T-Hoang/Lutz-FL/Pd96XdKzeb3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "17269 Old Tobacco Rd",
+                        "addressLocality": "Lutz",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Tina Joyner",
+                    "Nghi Tina Hoang"
+                ],
+                "telephone": "(316) 522-7437",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Lien Trieu Hoang",
+                        "givenName": "Lien",
+                        "familyName": "Hoang",
+                        "additionalName": "Trieu"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Katherine Angel Joyner",
+                        "givenName": "Katherine",
+                        "familyName": "Joyner",
+                        "additionalName": "Angel"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Etter Hoang",
+                        "givenName": "Etter",
+                        "familyName": "Hoang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Darryl L Joyner",
+                        "givenName": "Darryl",
+                        "familyName": "Joyner",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Lindsay Danielle Joyner",
+                        "givenName": "Lindsay",
+                        "familyName": "Joyner",
+                        "additionalName": "Danielle"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@type": "Person",
+                "name": "Samantha N Hoang",
+                "givenName": "Samantha",
+                "familyName": "Hoang",
+                "additionalName": "N",
+                "description": "Samantha N Hoang in their 30s, currently living in Clearwater, FL",
+                "url": "/name/Samantha-N-Hoang/Clearwater-FL/Pg8gvbvl5W3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2210 Jaffa Pl",
+                        "addressLocality": "Clearwater",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(828) 327-2053",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Mai N Hoang",
+                        "givenName": "Mai",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nhan T Hoang",
+                        "givenName": "Nhan",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Ngoc Hiep Hoang",
+                        "givenName": "Ngoc",
+                        "familyName": "Hoang",
+                        "additionalName": "Hiep"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Phuong Dung Hoang",
+                        "givenName": "Phuong",
+                        "familyName": "Hoang",
+                        "additionalName": "Dung"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@type": "Person",
+                "name": "Nguyen D Hoang",
+                "givenName": "Nguyen",
+                "familyName": "Hoang",
+                "additionalName": "D",
+                "description": "Nguyen D Hoang in their 20s, currently living in Lake Mary, FL",
+                "url": "/name/Nguyen-D-Hoang/Lake-Mary-FL/Pg8gg2aWqD8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "516 Remington Oak Dr",
+                        "addressLocality": "Lake Mary",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(407) 671-0217",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Lang H Le",
+                        "givenName": "Lang",
+                        "familyName": "Le",
+                        "additionalName": "H"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Phu S Hoang",
+                        "givenName": "Phu",
+                        "familyName": "Hoang",
+                        "additionalName": "S"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thien Cong Hoang",
+                        "givenName": "Thien",
+                        "familyName": "Hoang",
+                        "additionalName": "Cong"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Khoa D Hoang",
+                        "givenName": "Khoa",
+                        "familyName": "Hoang",
+                        "additionalName": "D"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@type": "Person",
+                "name": "Thuong T Hoang",
+                "givenName": "Thuong",
+                "familyName": "Hoang",
+                "additionalName": "T",
+                "description": "Thuong T Hoang in their 30s, currently living in Bradenton, FL",
+                "url": "/name/Thuong-T-Hoang/Bradenton-FL/Pw9YqNGKOB9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "16038 7th Ave E",
+                        "addressLocality": "Bradenton",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Thuy T Hoang",
+                        "givenName": "Thuy",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nam Chi Truong",
+                        "givenName": "Nam",
+                        "familyName": "Truong",
+                        "additionalName": "Chi"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Phuong T Hoang",
+                        "givenName": "Phuong",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Sarina Sangthi Hoang",
+                        "givenName": "Sarina",
+                        "familyName": "Hoang",
+                        "additionalName": "Sangthi"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Binh T Hoang",
+                        "givenName": "Binh",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@type": "Person",
+                "name": "Thi Jimmy Hoang",
+                "givenName": "Thi",
+                "familyName": "Hoang",
+                "additionalName": "Jimmy",
+                "description": "Thi Jimmy Hoang in their 30s, currently living in Sarasota, FL",
+                "url": "/name/Thi-Jimmy-Hoang/Sarasota-FL/P59OzL4zAL8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "8427 Sylvan Woods Dr",
+                        "addressLocality": "Sarasota",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Jimmy Hoang"
+                ],
+                "telephone": "(510) 661-1748",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Cuong Manh Hoang",
+                        "givenName": "Cuong",
+                        "familyName": "Hoang",
+                        "additionalName": "Manh"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Linda N Hoang",
+                        "givenName": "Linda",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "John A Hoang",
+                        "givenName": "John",
+                        "familyName": "Hoang",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Oanh Thingoc Nguyen",
+                        "givenName": "Oanh",
+                        "familyName": "Nguyen",
+                        "additionalName": "Thingoc"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Long Van Hoang",
+                        "givenName": "Long",
+                        "familyName": "Hoang",
+                        "additionalName": "Van"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@type": "Person",
+                "name": "Rosalyn My Hoang",
+                "givenName": "Rosalyn",
+                "familyName": "Hoang",
+                "additionalName": "My",
+                "description": "Rosalyn My Hoang in their 20s, currently living in Tampa, FL",
+                "url": "/name/Rosalyn-My-Hoang/Tampa-FL/PD9oEaWloE3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "8427 Poydras Ln",
+                        "addressLocality": "Tampa",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(813) 818-8931",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Binh H Hoang",
+                        "givenName": "Binh",
+                        "familyName": "Hoang",
+                        "additionalName": "H"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Harrison T Hoang",
+                        "givenName": "Harrison",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Hoc H Hoang",
+                        "givenName": "Hoc",
+                        "familyName": "Hoang",
+                        "additionalName": "H"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jeffrey T Hoang",
+                        "givenName": "Jeffrey",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thanh H Hoang",
+                        "givenName": "Thanh",
+                        "familyName": "Hoang",
+                        "additionalName": "H"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@type": "Person",
+                "name": "Tuan A Hoang",
+                "givenName": "Tuan",
+                "familyName": "Hoang",
+                "additionalName": "A",
+                "description": "Tuan A Hoang in their 30s, currently living in Jacksonville, FL",
+                "url": "/name/Tuan-A-Hoang/Jacksonville-FL/PJ9ePKq1Nz8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "12083 Foal Ln",
+                        "addressLocality": "Jacksonville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Sandalwood",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(904) 398-3276",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Bien Xuan Hoang",
+                        "givenName": "Bien",
+                        "familyName": "Hoang",
+                        "additionalName": "Xuan"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Peter Tu Hoang",
+                        "givenName": "Peter",
+                        "familyName": "Hoang",
+                        "additionalName": "Tu"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nghia Chinh Hoang",
+                        "givenName": "Nghia",
+                        "familyName": "Hoang",
+                        "additionalName": "Chinh"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thi Ngoc Pham",
+                        "givenName": "Thi",
+                        "familyName": "Pham",
+                        "additionalName": "Ngoc"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thi Nom Pham",
+                        "givenName": "Thi",
+                        "familyName": "Pham",
+                        "additionalName": "Nom"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@type": "Person",
+                "name": "Christopher T Hoang",
+                "givenName": "Christopher",
+                "familyName": "Hoang",
+                "additionalName": "T",
+                "description": "Christopher T Hoang in their 30s, currently living in Gainesville, FL",
+                "url": "/name/Christopher-T-Hoang/Gainesville-FL/PbywbeE55Z9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "268 NE 46th Ter",
+                        "addressLocality": "Gainesville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Chris Hoang"
+                ],
+                "telephone": "(352) 336-9343",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Kim T Hoang",
+                        "givenName": "Kim",
+                        "familyName": "Hoang",
+                        "additionalName": "T"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@type": "Person",
+                "name": "Megan N Hoang",
+                "givenName": "Megan",
+                "familyName": "Hoang",
+                "additionalName": "N",
+                "description": "Megan N Hoang in their 20s, currently living in Deltona, FL",
+                "url": "/name/Megan-N-Hoang/Deltona-FL/P63GaYjzQV9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "990 N Union Cir",
+                        "addressLocality": "Deltona",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Deltona Lakes",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Megan P Ngo"
+                ],
+                "telephone": "(386) 753-0892",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Tuong N Hoang",
+                        "givenName": "Tuong",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jim N Hoang",
+                        "givenName": "Jim",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tammy Phuong Ngo",
+                        "givenName": "Tammy",
+                        "familyName": "Ngo",
+                        "additionalName": "Phuong"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tuyen N Hoang",
+                        "givenName": "Tuyen",
+                        "familyName": "Hoang",
+                        "additionalName": "N"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@type": "Person",
+                "name": "Tony Nguyen Hoang",
+                "givenName": "Tony",
+                "familyName": "Hoang",
+                "additionalName": "Nguyen",
+                "description": "Tony Nguyen Hoang in their 20s, currently living in Pinellas Park, FL",
+                "url": "/name/Tony-Nguyen-Hoang/Pinellas-Park-FL/PJ9ePK0KQ08",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "8441 59th Ln N",
+                        "addressLocality": "Pinellas Park",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(727) 527-2005",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Van Hoang",
+                        "givenName": "Van",
+                        "familyName": "Hoang"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Phuong Kim Le",
+                        "givenName": "Phuong",
+                        "familyName": "Le",
+                        "additionalName": "Kim"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Dung Hoang",
+                        "givenName": "Dung",
+                        "familyName": "Hoang"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@type": "Person",
+                "name": "Linh Nhat Hoang",
+                "givenName": "Linh",
+                "familyName": "Hoang",
+                "additionalName": "Nhat",
+                "description": "Linh Nhat Hoang in their 30s, currently living in Sun City Center, FL",
+                "url": "/name/Linh-Nhat-Hoang/Sun-City-Center-FL/P19Xke1mOP8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "9302 Lemon Drop Loop",
+                        "addressLocality": "Sun City Center",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Kings Point",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(800) 423-8723",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Sanh K Hoang",
+                        "givenName": "Sanh",
+                        "familyName": "Hoang",
+                        "additionalName": "K"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Kayla Yen Li",
+                        "givenName": "Kayla",
+                        "familyName": "Li",
+                        "additionalName": "Yen"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Phillip L Hoang",
+                        "givenName": "Phillip",
+                        "familyName": "Hoang",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Mai T Nguyen",
+                        "givenName": "Mai",
+                        "familyName": "Nguyen",
+                        "additionalName": "T"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Danielle Rivers Hoang",
+                        "givenName": "Danielle",
+                        "familyName": "Hoang",
+                        "additionalName": "Rivers"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Ncoic, Fitness and Sports"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "United States Air Force"
+                }
+            }
+        }
+    ],
+    "description": "View Hoang results in Florida including current home address, phone number, relatives & property records with Whitepages. We found 376 people named Hoang in Florida."
+}

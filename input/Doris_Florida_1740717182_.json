@@ -1,0 +1,1495 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ItemList",
+    "url": "https://www.whitepages.com/name/Doris/FL",
+    "numberOfItems": 25,
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "item": {
+                "@type": "Person",
+                "name": "Emmanuella Doris",
+                "givenName": "Emmanuella",
+                "familyName": "Doris",
+                "description": "Emmanuella Doris in their 30s, currently living in Naples, FL",
+                "url": "/name/Emmanuella-Doris/Naples-FL/Pj9QedMWL9V",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "13465 Koinonia Dr",
+                        "addressLocality": "Naples",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Emmanuella Emmanuella",
+                    "Emmanuela N Alliance"
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Virginia Alliance",
+                        "givenName": "Virginia",
+                        "familyName": "Alliance"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Chedelaine Alliance",
+                        "givenName": "Chedelaine",
+                        "familyName": "Alliance"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Dieumonfr Alliance",
+                        "givenName": "Dieumonfr",
+                        "familyName": "Alliance"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Veronica Alliance",
+                        "givenName": "Veronica",
+                        "familyName": "Alliance"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "item": {
+                "@type": "Person",
+                "name": "Cameron L Doris",
+                "givenName": "Cameron",
+                "familyName": "Doris",
+                "additionalName": "L",
+                "description": "Cameron L Doris in their 20s, currently living in Laurel Hill, FL",
+                "url": "/name/Cameron-L-Doris/Laurel-Hill-FL/P53k6BzeV5y",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7425 Pappa Lawrence Rd",
+                        "addressLocality": "Laurel Hill",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(850) 652-2336",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Theodore R Doris",
+                        "givenName": "Theodore",
+                        "familyName": "Doris",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jessy Richard Doris",
+                        "givenName": "Jessy",
+                        "familyName": "Doris",
+                        "additionalName": "Richard"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "April L Doris",
+                        "givenName": "April",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 3,
+            "item": {
+                "@type": "Person",
+                "name": "Austin L Doris",
+                "givenName": "Austin",
+                "familyName": "Doris",
+                "additionalName": "L",
+                "description": "Austin L Doris in their 30s, currently living in Miami, FL",
+                "url": "/name/Austin-L-Doris/Miami-FL/PX3voYLOB8k",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1037 NE 203rd Ln",
+                        "addressLocality": "Miami",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Ives Estates",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Doris Carrie",
+                        "givenName": "Doris",
+                        "familyName": "Carrie"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Melody M Holcomb",
+                        "givenName": "Melody",
+                        "familyName": "Holcomb",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Patricia L Doris",
+                        "givenName": "Patricia",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "James R Doris",
+                        "givenName": "James",
+                        "familyName": "Doris",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "James R Doris",
+                        "givenName": "James",
+                        "familyName": "Doris",
+                        "additionalName": "R"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 4,
+            "item": {
+                "@type": "Person",
+                "name": "Jessy Richard Doris",
+                "givenName": "Jessy",
+                "familyName": "Doris",
+                "additionalName": "Richard",
+                "description": "Jessy Richard Doris in their 20s, currently living in Laurel Hill, FL",
+                "url": "/name/Jessy-Richard-Doris/Laurel-Hill-FL/PG9RDMea43z",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7425 Pappa Lawrence Rd",
+                        "addressLocality": "Laurel Hill",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Jessy R Dorris"
+                ],
+                "telephone": "(850) 652-2336",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Theodore R Doris",
+                        "givenName": "Theodore",
+                        "familyName": "Doris",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Cameron L Doris",
+                        "givenName": "Cameron",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "April L Doris",
+                        "givenName": "April",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 5,
+            "item": {
+                "@type": "Person",
+                "name": "Noah Nathaniel Doris",
+                "givenName": "Noah",
+                "familyName": "Doris",
+                "additionalName": "Nathaniel",
+                "description": "Noah Nathaniel Doris in their 20s, currently living in South Miami, FL",
+                "url": "/name/Noah-Nathaniel-Doris/South-Miami-FL/Pg8gvkMBZm3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7524 SW 58th Ave",
+                        "addressLocality": "South Miami",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "South Miami",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Noah Saintalbin"
+                ],
+                "telephone": "(561) 687-3672",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Anthony R Doris",
+                        "givenName": "Anthony",
+                        "familyName": "Doris",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Sabine Ann Saint-Albin",
+                        "givenName": "Sabine",
+                        "familyName": "Saint-Albin",
+                        "additionalName": "Ann"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jean Max Albin",
+                        "givenName": "Jean",
+                        "familyName": "Albin",
+                        "additionalName": "Max"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Natalya Tareva Doris",
+                        "givenName": "Natalya",
+                        "familyName": "Doris",
+                        "additionalName": "Tareva"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Marie D Saintalbin",
+                        "givenName": "Marie",
+                        "familyName": "Saintalbin",
+                        "additionalName": "D"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Co-Founder"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Goba Tea"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 6,
+            "item": {
+                "@type": "Person",
+                "name": "Christopher J Doris",
+                "givenName": "Christopher",
+                "familyName": "Doris",
+                "additionalName": "J",
+                "description": "Christopher J Doris in their 20s, currently living in Brooksville, FL",
+                "url": "/name/Christopher-J-Doris/Brooksville-FL/PR35YN6mEw3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "6749 Longboat Dr",
+                        "addressLocality": "Brooksville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Christophe Doris"
+                ],
+                "telephone": "(315) 507-2343",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Andre A Doris",
+                        "givenName": "Andre",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Christopher Edward Doris",
+                        "givenName": "Christopher",
+                        "familyName": "Doris",
+                        "additionalName": "Edward"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Kenisha S Doris",
+                        "givenName": "Kenisha",
+                        "familyName": "Doris",
+                        "additionalName": "S"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Christopher J Doris",
+                        "givenName": "Christopher",
+                        "familyName": "Doris",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Allison V Doris",
+                        "givenName": "Allison",
+                        "familyName": "Doris",
+                        "additionalName": "V"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 7,
+            "item": {
+                "@type": "Person",
+                "name": "Natalya Tareva Doris",
+                "givenName": "Natalya",
+                "familyName": "Doris",
+                "additionalName": "Tareva",
+                "description": "Natalya Tareva Doris in their 20s, currently living in South Miami, FL",
+                "url": "/name/Natalya-Tareva-Doris/South-Miami-FL/P63GaDDQQp9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "7524 SW 58th Ave",
+                        "addressLocality": "South Miami",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "South Miami",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(305) 667-5163",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Anthony R Doris",
+                        "givenName": "Anthony",
+                        "familyName": "Doris",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Sabine Ann Saint-Albin",
+                        "givenName": "Sabine",
+                        "familyName": "Saint-Albin",
+                        "additionalName": "Ann"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Arthur J Doris",
+                        "givenName": "Arthur",
+                        "familyName": "Doris",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Noah Nathaniel Doris",
+                        "givenName": "Noah",
+                        "familyName": "Doris",
+                        "additionalName": "Nathaniel"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 8,
+            "item": {
+                "@type": "Person",
+                "name": "Erin Elizabeth Doris",
+                "givenName": "Erin",
+                "familyName": "Doris",
+                "additionalName": "Elizabeth",
+                "description": "Erin Elizabeth Doris in their 30s, currently living in Winter Haven, FL",
+                "url": "/name/Erin-Elizabeth-Doris/Winter-Haven-FL/PN3V0EYW19g",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1507 Foxridge Run SW",
+                        "addressLocality": "Winter Haven",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Erin Elizabeth Bruckner",
+                    "Doris Erin"
+                ],
+                "telephone": "(724) 274-4050",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Erikka J Doris",
+                        "givenName": "Erikka",
+                        "familyName": "Doris",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Aaron Gregory Bruckner",
+                        "givenName": "Aaron",
+                        "familyName": "Bruckner",
+                        "additionalName": "Gregory"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Kelly R Boyle",
+                        "givenName": "Kelly",
+                        "familyName": "Boyle",
+                        "additionalName": "R"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Joseph L Doris",
+                        "givenName": "Joseph",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 9,
+            "item": {
+                "@type": "Person",
+                "name": "Candacey L Doris",
+                "givenName": "Candacey",
+                "familyName": "Doris",
+                "additionalName": "L",
+                "description": "Candacey L Doris in their 30s, currently living in Spring Hill, FL",
+                "url": "/name/Candacey-L-Doris/Spring-Hill-FL/Pk3n5ZDB0yQ",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "9195 Sanborn St",
+                        "addressLocality": "Spring Hill",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Candacey Lillian Doris"
+                ],
+                "telephone": "(352) 683-3030",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Maxine Doris Simon",
+                        "givenName": "Maxine",
+                        "familyName": "Simon",
+                        "additionalName": "Doris"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Colleen A Doris",
+                        "givenName": "Colleen",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Andre A Doris",
+                        "givenName": "Andre",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Clotell L Doris",
+                        "givenName": "Clotell",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jilian A Waite",
+                        "givenName": "Jilian",
+                        "familyName": "Waite",
+                        "additionalName": "A"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 10,
+            "item": {
+                "@type": "Person",
+                "name": "Alyssia C Doris",
+                "givenName": "Alyssia",
+                "familyName": "Doris",
+                "additionalName": "C",
+                "description": "Alyssia C Doris in their 30s, currently living in Land O Lakes, FL",
+                "url": "/name/Alyssia-C-Doris/Land-O-Lakes-FL/PvyB5Q0JO9V",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "4515 Roundview Ct",
+                        "addressLocality": "Land O Lakes",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Sable Ridge",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Alyssia Christina Doris"
+                ],
+                "telephone": "(352) 466-0645",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Patsy Veronica Doris",
+                        "givenName": "Patsy",
+                        "familyName": "Doris",
+                        "additionalName": "Veronica"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Wendell D Doris",
+                        "givenName": "Wendell",
+                        "familyName": "Doris",
+                        "additionalName": "D"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Andrea C Doris",
+                        "givenName": "Andrea",
+                        "familyName": "Doris",
+                        "additionalName": "C"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 11,
+            "item": {
+                "@type": "Person",
+                "name": "Sean J Doris",
+                "givenName": "Sean",
+                "familyName": "Doris",
+                "additionalName": "J",
+                "description": "Sean J Doris in their 30s, currently living in Rockledge, FL",
+                "url": "/name/Sean-J-Doris/Rockledge-FL/PbyPWwzDZ59",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1600 Woodland Dr Apt 8216",
+                        "addressLocality": "Rockledge",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Rockledge",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Sean Joseph Doris",
+                    "Doris Sean"
+                ],
+                "telephone": "(609) 448-1302",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Lorein Doris",
+                        "givenName": "Lorein",
+                        "familyName": "Doris"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Susan A Doris",
+                        "givenName": "Susan",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Michael F Doris",
+                        "givenName": "Michael",
+                        "familyName": "Doris",
+                        "additionalName": "F"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Lorraine A Doris",
+                        "givenName": "Lorraine",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Mike Doris",
+                        "givenName": "Mike",
+                        "familyName": "Doris"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 12,
+            "item": {
+                "@type": "Person",
+                "name": "Traci A Doris",
+                "givenName": "Traci",
+                "familyName": "Doris",
+                "additionalName": "A",
+                "description": "Traci A Doris in their 30s, currently living in Englewood, FL",
+                "url": "/name/Traci-A-Doris/Englewood-FL/P19XBxBMX34",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "201 Washington Ave Apt A",
+                        "addressLocality": "Englewood",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Old Englewood Village",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Doris Traci"
+                ],
+                "telephone": "(803) 520-3817",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Melissa L Cartwright",
+                        "givenName": "Melissa",
+                        "familyName": "Cartwright",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Tiffany A Doris",
+                        "givenName": "Tiffany",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Dennis L Doris",
+                        "givenName": "Dennis",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Assistant Manager"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Ricaltini's Bar And Grille"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 13,
+            "item": {
+                "@type": "Person",
+                "name": "Susan A Doris",
+                "givenName": "Susan",
+                "familyName": "Doris",
+                "additionalName": "A",
+                "description": "Susan A Doris in their 30s, currently living in Rockledge, FL",
+                "url": "/name/Susan-A-Doris/Rockledge-FL/P53kKx5R6b3",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1600 Woodland Dr Apt 8216",
+                        "addressLocality": "Rockledge",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Rockledge",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Suzanne M Ballantyne",
+                    "Susan M Ballantyne",
+                    "Suzanne M Diaiso",
+                    "Suzanne M Myers",
+                    "Susan A Myers"
+                ],
+                "telephone": "(732) 886-6423",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Sean J Doris",
+                        "givenName": "Sean",
+                        "familyName": "Doris",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Laurie Ann Flynn",
+                        "givenName": "Laurie",
+                        "familyName": "Flynn",
+                        "additionalName": "Ann"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Michael F Doris",
+                        "givenName": "Michael",
+                        "familyName": "Doris",
+                        "additionalName": "F"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Lorraine A Doris",
+                        "givenName": "Lorraine",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Christina L Myers",
+                        "givenName": "Christina",
+                        "familyName": "Myers",
+                        "additionalName": "L"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 14,
+            "item": {
+                "@type": "Person",
+                "name": "Amanda Nicole Doris",
+                "givenName": "Amanda",
+                "familyName": "Doris",
+                "additionalName": "Nicole",
+                "description": "Amanda Nicole Doris in their 20s, currently living in Jacksonville, FL",
+                "url": "/name/Amanda-Nicole-Doris/Jacksonville-FL/PkypkOXrrW9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "9800 Touchton Rd Apt 638",
+                        "addressLocality": "Jacksonville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Windy Hill",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(919) 876-9300",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Thomas K Doris",
+                        "givenName": "Thomas",
+                        "familyName": "Doris",
+                        "additionalName": "K"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Dyllan Taylor Doris",
+                        "givenName": "Dyllan",
+                        "familyName": "Doris",
+                        "additionalName": "Taylor"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Thomas K Doris",
+                        "givenName": "Thomas",
+                        "familyName": "Doris",
+                        "additionalName": "K"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Brenda Lizette Doris Garcia",
+                        "givenName": "Brenda",
+                        "familyName": "Garcia",
+                        "additionalName": "Lizette Doris"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 15,
+            "item": {
+                "@type": "Person",
+                "name": "Hannah C Doris",
+                "givenName": "Hannah",
+                "familyName": "Doris",
+                "additionalName": "C",
+                "description": "Hannah C Doris in their 20s, currently living in Cutler Bay, FL",
+                "url": "/name/Hannah-C-Doris/Cutler-Bay-FL/PA8mLeMao43",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "20434 SW 85th Ave",
+                        "addressLocality": "Cutler Bay",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Cutler Bay",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "telephone": "(305) 259-1921",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "George E Doris",
+                        "givenName": "George",
+                        "familyName": "Doris",
+                        "additionalName": "E"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Lisette N Doris",
+                        "givenName": "Lisette",
+                        "familyName": "Doris",
+                        "additionalName": "N"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 16,
+            "item": {
+                "@type": "Person",
+                "name": "Rebecca A Doris",
+                "givenName": "Rebecca",
+                "familyName": "Doris",
+                "additionalName": "A",
+                "description": "Rebecca A Doris in their 30s, currently living in Port Saint Lucie, FL",
+                "url": "/name/Rebecca-A-Doris/Port-Saint-Lucie-FL/Pj9QVPRwZ6y",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "3872 SW Daisy St",
+                        "addressLocality": "Port Saint Lucie",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Tulip Park",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Doris Rebecca"
+                ],
+                "telephone": "(954) 728-3826",
+                "relatedTo": []
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 17,
+            "item": {
+                "@type": "Person",
+                "name": "Alexis Doris",
+                "givenName": "Alexis",
+                "familyName": "Doris",
+                "description": "Alexis Doris in their 30s, currently living in Fort Pierce, FL",
+                "url": "/name/Alexis-Doris/Fort-Pierce-FL/Pr84Ja16ljy",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2625 S 28th St",
+                        "addressLocality": "Fort Pierce",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Fort Pierce South",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Doris Alexis"
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Delitane Alexis",
+                        "givenName": "Delitane",
+                        "familyName": "Alexis"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Stefani Altide",
+                        "givenName": "Stefani",
+                        "familyName": "Altide"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Monel Alexis",
+                        "givenName": "Monel",
+                        "familyName": "Alexis"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jean Mccarthy Alexis",
+                        "givenName": "Jean",
+                        "familyName": "Alexis",
+                        "additionalName": "Mccarthy"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jean Marie Alexis",
+                        "givenName": "Jean",
+                        "familyName": "Alexis",
+                        "additionalName": "Marie"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Student"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Indian River Community College"
+                }
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 18,
+            "item": {
+                "@type": "Person",
+                "name": "Gerard T Doris III",
+                "givenName": "Gerard",
+                "familyName": "Doris",
+                "additionalName": "T",
+                "description": "Gerard T Doris III in their 30s, currently living in Trinity, FL",
+                "url": "/name/Gerard-T-Doris-Iii/Trinity-FL/Pl3l5gGJW48",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1503 Kaffir Lily Ct",
+                        "addressLocality": "Trinity",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Gerard Thomas Doris"
+                ],
+                "telephone": "(813) 915-3402",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Charell M Condoll",
+                        "givenName": "Charell",
+                        "familyName": "Condoll",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Carol Denise Jackson",
+                        "givenName": "Carol",
+                        "familyName": "Jackson",
+                        "additionalName": "Denise"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Shelly Doris",
+                        "givenName": "Shelly",
+                        "familyName": "Doris"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Carolyn B Doris",
+                        "givenName": "Carolyn",
+                        "familyName": "Doris",
+                        "additionalName": "B"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 19,
+            "item": {
+                "@type": "Person",
+                "name": "Zachary Matthew Doris",
+                "givenName": "Zachary",
+                "familyName": "Doris",
+                "additionalName": "Matthew",
+                "description": "Zachary Matthew Doris in their 30s, currently living in Palm City, FL",
+                "url": "/name/Zachary-Matthew-Doris/Palm-City-FL/PJ9eRkwBKyw",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "3145 SW Feroe Ave",
+                        "addressLocality": "Palm City",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Old Palm City",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Zachary Matthew Doris Senior",
+                    "Zack Matthew Doris Senior",
+                    "Zack Matthew Doris"
+                ],
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Ashley M Clarke",
+                        "givenName": "Ashley",
+                        "familyName": "Clarke",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Nicholas James Doris",
+                        "givenName": "Nicholas",
+                        "familyName": "Doris",
+                        "additionalName": "James"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Natalie Joann Loomis",
+                        "givenName": "Natalie",
+                        "familyName": "Loomis",
+                        "additionalName": "Joann"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 20,
+            "item": {
+                "@type": "Person",
+                "name": "Dartanian Leland Doris",
+                "givenName": "Dartanian",
+                "familyName": "Doris",
+                "additionalName": "Leland",
+                "description": "Dartanian Leland Doris in their 30s, currently living in Kissimmee, FL",
+                "url": "/name/Dartanian-Leland-Doris/Kissimmee-FL/P79zMxmmne8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "2288 Viehman Trl",
+                        "addressLocality": "Kissimmee",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(504) 348-3316",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Blanca Iris Cruz",
+                        "givenName": "Blanca",
+                        "familyName": "Cruz",
+                        "additionalName": "Iris"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Britteny D Hendrix",
+                        "givenName": "Britteny",
+                        "familyName": "Hendrix",
+                        "additionalName": "D"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Verinese J Doris",
+                        "givenName": "Verinese",
+                        "familyName": "Doris",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Daryl R Doris",
+                        "givenName": "Daryl",
+                        "familyName": "Doris",
+                        "additionalName": "R"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 21,
+            "item": {
+                "@type": "Person",
+                "name": "Nathan Doris",
+                "givenName": "Nathan",
+                "familyName": "Doris",
+                "description": "Nathan Doris in their 20s, currently living in Land O Lakes, FL",
+                "url": "/name/Nathan-Doris/Land-O-Lakes-FL/PL8JxKGJvny",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "18435 Merseyside Loop",
+                        "addressLocality": "Land O Lakes",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Nathan Joseph Soliven Doris"
+                ],
+                "telephone": "(813) 929-9778",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Kevin P Doris",
+                        "givenName": "Kevin",
+                        "familyName": "Doris",
+                        "additionalName": "P"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Elena L Doris",
+                        "givenName": "Elena",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 22,
+            "item": {
+                "@type": "Person",
+                "name": "Raymond Joseph Doris II",
+                "givenName": "Raymond",
+                "familyName": "Doris",
+                "additionalName": "Joseph",
+                "description": "Raymond Joseph Doris II in their 30s, currently living in Fort Lauderdale, FL",
+                "url": "/name/Raymond-Joseph-Doris-Ii/Fort-Lauderdale-FL/PkypkMdWY79",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "1524 NW 16th Ln",
+                        "addressLocality": "Fort Lauderdale",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "containedInPlace": [
+                    {
+                        "@type": "Place",
+                        "name": "Lauderdale Manors",
+                        "address": {
+                            "@type": "PostalAddress",
+                            "addressRegion": "FL",
+                            "addressCountry": "US"
+                        }
+                    }
+                ],
+                "alternateName": [
+                    "Raymond Dorris",
+                    "Raymond Joseph Boris"
+                ],
+                "telephone": "(305) 652-7357",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Raymond J Doris",
+                        "givenName": "Raymond",
+                        "familyName": "Doris",
+                        "additionalName": "J"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Cindy S Croyle",
+                        "givenName": "Cindy",
+                        "familyName": "Croyle",
+                        "additionalName": "S"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 23,
+            "item": {
+                "@type": "Person",
+                "name": "Douglas A Doris",
+                "givenName": "Douglas",
+                "familyName": "Doris",
+                "additionalName": "A",
+                "description": "Douglas A Doris in their 30s, currently living in Spring Hill, FL",
+                "url": "/name/Douglas-A-Doris/Spring-Hill-FL/PL8JVDzMO8x",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "9195 Sanborn St",
+                        "addressLocality": "Spring Hill",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "alternateName": [
+                    "Douglas Andre Gordon Doris"
+                ],
+                "telephone": "(352) 683-8330",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Maxine Doris Simon",
+                        "givenName": "Maxine",
+                        "familyName": "Simon",
+                        "additionalName": "Doris"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Colleen A Doris",
+                        "givenName": "Colleen",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Andre A Doris",
+                        "givenName": "Andre",
+                        "familyName": "Doris",
+                        "additionalName": "A"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Clotell L Doris",
+                        "givenName": "Clotell",
+                        "familyName": "Doris",
+                        "additionalName": "L"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Jilian A Waite",
+                        "givenName": "Jilian",
+                        "familyName": "Waite",
+                        "additionalName": "A"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 24,
+            "item": {
+                "@type": "Person",
+                "name": "Cori Taylor Doris",
+                "givenName": "Cori",
+                "familyName": "Doris",
+                "additionalName": "Taylor",
+                "description": "Cori Taylor Doris in their 30s, currently living in Gainesville, FL",
+                "url": "/name/Cori-Taylor-Doris/Gainesville-FL/Po3jKexrJw8",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "719 SW 70th Ter Apt 5",
+                        "addressLocality": "Gainesville",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(386) 418-4676",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Troy Michel Doris",
+                        "givenName": "Troy",
+                        "familyName": "Doris",
+                        "additionalName": "Michel"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Monica Rae Doris",
+                        "givenName": "Monica",
+                        "familyName": "Doris",
+                        "additionalName": "Rae"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Eric M Doris",
+                        "givenName": "Eric",
+                        "familyName": "Doris",
+                        "additionalName": "M"
+                    }
+                ]
+            }
+        },
+        {
+            "@type": "ListItem",
+            "position": 25,
+            "item": {
+                "@type": "Person",
+                "name": "Troy Michel Doris",
+                "givenName": "Troy",
+                "familyName": "Doris",
+                "additionalName": "Michel",
+                "description": "Troy Michel Doris in their 20s, currently living in Winter Park, FL",
+                "url": "/name/Troy-Michel-Doris/Winter-Park-FL/PA8mjn1RlZ9",
+                "address": [
+                    {
+                        "@type": "PostalAddress",
+                        "streetAddress": "8151 Lazy Bear Ln",
+                        "addressLocality": "Winter Park",
+                        "addressRegion": "FL",
+                        "addressCountry": "US"
+                    }
+                ],
+                "telephone": "(888) 762-2265",
+                "relatedTo": [
+                    {
+                        "@type": "Person",
+                        "name": "Monica Rae Doris",
+                        "givenName": "Monica",
+                        "familyName": "Doris",
+                        "additionalName": "Rae"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Cori Taylor Doris",
+                        "givenName": "Cori",
+                        "familyName": "Doris",
+                        "additionalName": "Taylor"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Eric M Doris",
+                        "givenName": "Eric",
+                        "familyName": "Doris",
+                        "additionalName": "M"
+                    },
+                    {
+                        "@type": "Person",
+                        "name": "Adriana Adelle Barnhill",
+                        "givenName": "Adriana",
+                        "familyName": "Barnhill",
+                        "additionalName": "Adelle"
+                    }
+                ],
+                "hasOccupation": {
+                    "@type": "Occupation",
+                    "name": "Vice President | Corporate & Institutional Banking"
+                },
+                "worksFor": {
+                    "@type": "Organization",
+                    "legalName": "Pnc"
+                }
+            }
+        }
+    ],
+    "description": "View Doris results in Florida including current home address, phone number, relatives & property records with Whitepages. We found 63 people named Doris in Florida."
+}

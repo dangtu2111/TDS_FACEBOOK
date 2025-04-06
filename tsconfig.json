@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2016",                     // Ngôn ngữ đầu ra
+    "module": "commonjs",                  // Module system
+    "outDir": "./dist",                    // Thư mục chứa file build
+    "esModuleInterop": true,               // Hỗ trợ import CommonJS modules
+    "forceConsistentCasingInFileNames": true, // Đảm bảo tên file nhất quán về viết hoa/thường
+    "strict": true,                        // Bật tất cả các kiểm tra chặt chẽ
+    "skipLibCheck": true                   // Bỏ qua kiểm tra các file khai báo .d.ts
+  }
+}
