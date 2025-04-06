@@ -39,7 +39,7 @@ class Facebook {
       await page.goto(this.url, { waitUntil: "networkidle2" });
       await page.deleteCookie(...(await page.cookies()));
       await Promise.all(cookies.map((cookie) => page.setCookie(cookie)));
-      await page.reload({ waitUntil: "networkidle2" });
+      // await page.reload({ waitUntil: "networkidle2" });
     } catch (error) {
       console.error("Login failed:", error);
       throw error;
