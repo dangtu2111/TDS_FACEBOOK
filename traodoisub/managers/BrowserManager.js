@@ -16,11 +16,19 @@ class BrowserManager {
     const windowSize = { width, height };
 
     for (const account of accounts) {
+      // const browserArgs = [
+      //   `--window-size=${width},${height}`,
+      //   `--window-position=${x},${y}`,
+      // ];
       const browserArgs = [
-        `--window-size=${width},${height}`,
-        `--window-position=${x},${y}`,
+        '--no-sandbox',              // Bỏ sandbox để chạy trên server
+        '--disable-setuid-sandbox',  // Tắt sandbox bổ sung
+        '--disable-dev-shm-usage',   // Tránh lỗi bộ nhớ dùng chung
+        '--disable-gpu',             // Tắt GPU trong chế độ không đầu
+        '--disable-software-rasterizer', // Tối ưu cho không đầu
+        `--remote-debugging-port=${9222 + index}`, // Cổng khác nhau cho mỗi instance
       ];
-
+      
       let proxyAuth = null;
 
       if (proxies.length > 0) {
@@ -39,9 +47,15 @@ class BrowserManager {
       }
 
       const browser = await puppeteer.launch({
-        headless: true,
+        headless: true, // Chạy không đầu để không cần GUI
+        defaultViewport: { width: 1280, height: 720 }, // Kích thước mặc định
         args: browserArgs,
+        executablePath: '/usr/bin/chromium-browser',
       });
+      // const browser = await puppeteer.launch({
+      //   headless: true,
+      //   args: browserArgs,
+      // });
 
       const page = await browser.newPage();
 
